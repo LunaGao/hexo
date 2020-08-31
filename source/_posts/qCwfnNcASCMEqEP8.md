@@ -1,7 +1,11 @@
 ---
 title: How to setup Hexo And Winwin Hexo Editor
-date: 2020-09-01 00:19:17
 tags:
+  - Hexo
+  - Web
+  - SSL
+categories: Hexo
+date: 2020-09-01 00:19:17
 ---
 # 环境
 Ubuntu 18.04 (Aliyun)
