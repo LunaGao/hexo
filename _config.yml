@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Maomishen
+title: 猫咪神
 subtitle: '机智的猫咪神'
-description: ''
-keywords:
+description: '这里是机智的猫咪神的博客'
+keywords: 猫咪神
 author: Luna Gao
-language: en
+language: zh
 timezone: ''
 
 # URL
@@ -98,7 +98,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
