@@ -4,16 +4,16 @@
 
 # Site
 title: 猫咪神
-subtitle: '机智的猫咪神'
-description: '这里是机智的猫咪神的博客'
+subtitle: 机智的猫咪神
+description: 这里是机智的猫咪神的博客
 keywords: 猫咪神
 author: Luna Gao
-language: zh
+language: zh-Hans
 timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://www.maomishen.com
+url: https://www.maomishen.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
